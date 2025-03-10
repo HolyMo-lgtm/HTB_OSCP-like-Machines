@@ -1,0 +1,6 @@
+Payload	URL Encoded
+'	%27
+"	%22
+#	%23
+;	%3B
+)	%29
